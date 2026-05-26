@@ -66,7 +66,7 @@ One-click “Walk There” or “Navigate” opens Google Maps directly from the
 
 ## 🖼️ Screenshots
 
-![Map View](images/EssentialsNow%20UI.jpeg)
+![Map View](images/EssentialsNow%20UI%20.jpeg)
 ![Amenity Display](images/EssentialsNow1.jpeg)
 ![Amenity Details](images/EssentialsNow2.jpeg)
 ![Nearby Amenities](images/EssentialsNow3.jpeg)
