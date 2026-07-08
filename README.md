@@ -73,6 +73,6 @@ One-click “Walk There” or “Navigate” opens Google Maps directly from the
 
 ---
 
-## 🧠 Notes
+## Research Relevance
 
-This project focuses on spatial interaction design, urban accessibility, and visual exploration of city infrastructure using real-world data.
+This project explores how open urban datasets can be transformed into interactive tools for understanding and accessing city infrastructure. It demonstrates the use of spatial data, visualization, and user-centered design approaches to support data-informed urban decision-making.
